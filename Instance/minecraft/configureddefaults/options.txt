@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","continuity:glass_pane_culling_fix","continuity:default"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","continuity:glass_pane_culling_fix","continuity:default","file/§3§lC418 Songs Only 1.16-1.21.5.zip","file/SodiumTranslations.zip","file/Snowiest+Snow+1.19.3.zip","file/Chat Reporting Helper.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
